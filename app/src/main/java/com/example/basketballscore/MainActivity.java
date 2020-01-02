@@ -7,7 +7,7 @@ import android.view.View;
 import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
-
+//score
     int total_score_A=0;
     int total_score_B=0;
     TextView scoreView_A;
